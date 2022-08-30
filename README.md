@@ -15,8 +15,13 @@ As someone who is part of the lgbtq+ community, it is important to me and I like
 ### brainfuck.asm
 An optimising compiler for Brainfuck; the 8-character language. While it's not very useful practically it was a good learning excerise about low level languages. Compatible with linking programs.
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=brainfuck.asm&theme=algolia)](https://github.com/Aurillium/PronounBot)
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=brainfuck.asm&theme=algolia)](https://github.com/Aurillium/brainfuck.asm)
+
+### SlashCommandBase
+A modular Discord bot system for Discord.js. An earlier version is what I used to make PronounBot
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=SlashCommandBase&theme=algolia)](https://github.com/Aurillium/SlashCommandBase)
+
 ## GitHub Stats
 
 [![Aurillium's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurillium&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,6 +30,10 @@ An optimising compiler for Brainfuck; the 8-character language. While it's not v
 
 ###### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 
+## Contact
+
+If it's about a specific project, there's probably a place for it in the README, but otherwise you can [email me](mailto:memphism2003@gmail.com).
+  
 </div>
 
 <!--

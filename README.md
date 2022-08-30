@@ -12,13 +12,13 @@ As someone who is part of the lgbtq+ community, it is important to me and I like
 ##### Discord Stats:
 [![Discord Bots](https://top.gg/api/widget/servers/983907393823969312.svg)](https://top.gg/bot/983907393823969312) [![Discord Bots](https://top.gg/api/widget/upvotes/983907393823969312.svg)](https://top.gg/bot/983907393823969312)
 ##### GitHub Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=pronounbot&theme=radical)](https://github.com/Aurillium/PronounBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=pronounbot&theme=algolia)](https://github.com/Aurillium/PronounBot)
 
 ## GitHub Stats
 
-[![Aurillium's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurillium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aurillium's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurillium&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurillium&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurillium&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 

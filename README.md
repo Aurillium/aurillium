@@ -18,7 +18,7 @@ As someone who is part of the lgbtq+ community, it is important to me and I like
 
 [![Aurillium's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurillium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurillium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurillium&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 

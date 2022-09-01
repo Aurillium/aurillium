@@ -12,13 +12,13 @@ As someone who is part of the lgbtq+ community, it is important to me and I like
 ##### GitHub Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=pronounbot&theme=algolia)](https://github.com/Aurillium/PronounBot)
 
-### mindbreaker
+### Mindbreaker
 An optimising compiler for a questionably named 8-character programming language. While it's not very useful practically it was a good learning excerise about low level languages. Compatible with linking programs.
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=brainfuck.asm&theme=algolia)](https://github.com/Aurillium/mindbreaker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=mindbreaker&theme=algolia)](https://github.com/Aurillium/mindbreaker)
 
 ### SlashCommandBase
-A modular Discord bot system for Discord.js. Every file contains code to handle one kind of interaction. An earlier version is what I used to make PronounBot
+A modular Discord bot system for Discord.js. Every file contains code to handle one kind of interaction, which are organised into folders. An earlier version of this is what I used to make PronounBot.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=SlashCommandBase&theme=algolia)](https://github.com/Aurillium/SlashCommandBase)
 

@@ -15,7 +15,7 @@ As someone who is part of the lgbtq+ community, it is important to me and I like
 ### Mindbreaker
 An optimising compiler for a questionably named 8-character programming language. While it's not very useful practically it was a good learning excerise about low level languages. Compatible with linking programs.
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=mindbreaker&theme=algolia)](https://github.com/Aurillium/mindbreaker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=Mindbreaker&theme=algolia)](https://github.com/Aurillium/mindbreaker)
 
 ### SlashCommandBase
 A modular Discord bot system for Discord.js. Every file contains code to handle one kind of interaction, which are organised into folders. An earlier version of this is what I used to make PronounBot.
@@ -32,21 +32,6 @@ A modular Discord bot system for Discord.js. Every file contains code to handle 
 
 ## Contact
 
-If it's about a specific project, there's probably a place for it in the README, but otherwise you can [email me](mailto:memphism2003@gmail.com).
-  
+If it's about a specific project, there's probably a place for it in the README, but otherwise you can [email me](mailto:memphism2003@gmail.com). While you're here, you should [check out my website!](https://aurilium.space)
+
 </div>
-
-<!--
-**Aurillium/aurillium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

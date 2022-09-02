@@ -2,7 +2,7 @@
 
 # Hello!
 
-I'm Memphis Marshall, a student studying computer science at Edith Cowan University. I write a lot of open-source code because I rely a lot on other open source code and believe it's an important and useful community and I want programming to be accessible to all. My main languages are JavaScript (node.js), Java, Python, and Go, but I experiment and occasionally use a lot more.
+I'm Memphis Marshall, a student studying computer science at Edith Cowan University. I write a lot of open-source code because I rely a lot on other open source code and want to allow others to do the same. I believe it's an important and useful community and I want programming to be accessible to all. My main languages are JavaScript (node.js), Java, Python, and Go, but I experiment and occasionally use a lot more.
 
 ## Projects
 ### Pronoun Bot

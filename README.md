@@ -12,6 +12,11 @@ As someone who is part of the lgbtq+ community, it is important to me and I like
 ##### GitHub Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=pronounbot&theme=algolia)](https://github.com/Aurillium/PronounBot)
 
+### MCServerGenerator
+A Python script to generate Minecraft servers using various server software. Very useful for testing plugins and mods on different versions; supports Paper, Spigot, Fabric, and vanilla.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aurillium&repo=mcservergenerator&theme=algolia)](https://github.com/Aurillium/MCServerGenerator)
+  
 ### Mindbreaker
 An optimising compiler for a questionably named 8-character programming language. While it's not very useful practically it was a good learning excerise about low level languages. Compatible with linking programs.
   

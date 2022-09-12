@@ -37,6 +37,6 @@ A modular Discord bot system for Discord.js. Every file contains code to handle 
 
 ## Contact
 
-If it's about a specific project, there's probably a place for it in the README, but otherwise you can [email me](mailto:memphism2003@gmail.com). While you're here, you should [check out my website!](https://aurilium.space)
+If it's about a specific project, there's probably a place for it in the README, but otherwise you can [email me](mailto:memphism2003@gmail.com). While you're here, you should [check out my website!](https://aurillium.space)
 
 </div>

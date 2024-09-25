@@ -46,7 +46,7 @@ A modular Discord bot system for Discord.js. Every file contains code to handle 
 
 ###### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 
-## Contact
+# Contact
 
 If it's about a specific project, there's probably a place for it in the README, but otherwise you can [email me](mailto:memphism2003@gmail.com). While you're here, you should [check out my website!](https://aurillium.space)
 
